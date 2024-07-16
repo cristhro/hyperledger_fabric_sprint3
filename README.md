@@ -15,7 +15,7 @@ go mod init test.go
 go mod tidy
 go mod vendor
 ```
-# Ejecución del script \`\`
+# Ejecución del script
 `test_universidades_chaincode.sh`
 Ir al directorio `/curso`
 ```warp-runnable-command
