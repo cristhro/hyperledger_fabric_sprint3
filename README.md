@@ -1,3 +1,7 @@
+### Cambios importantes
+Ficheros que se han modificado: 
+https://github.com/cristhro/hyperledger_fabric_sprint3/compare/52021838230d04edf024c0f67c1bc81bdccf2eac...7faf5e2b866966c2519232e37c4cc9f46095cec8
+
 ### 
 ### Prerequisitos
 Instalar fabric\-samples
